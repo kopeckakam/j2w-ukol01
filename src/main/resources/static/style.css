@@ -1,0 +1,28 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 34px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background: #e5e5ea;
+    border-radius: 1em;
+}
+
+.quote {
+    padding-bottom: 0.5em;
+}
+
+img {
+    width: 800px;
+    height: 450px;
+    padding-top: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.quote-by {
+    font-size: 20px;
+}
